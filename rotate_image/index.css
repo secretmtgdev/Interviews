@@ -1,0 +1,7 @@
+.rotate-180 {
+    transition: transform 1s ease-in-out;
+}
+
+.rotate-180:hover {
+    transform: rotate(180deg);
+}
